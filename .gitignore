@@ -1,0 +1,11 @@
+.git
+.gitattributes
+.ipynb_checkpoints
+lfw.tgz
+siamesemodel.h5
+application_data/*
+app/__pycache__/*
+app/application_data/*
+app/siamesemodel.h5
+data/*
+training_checkpoints/*
